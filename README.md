@@ -6,7 +6,7 @@ After you clone this projet :
 
 # Step 1
 
-- Vous devez installer sur votre machine "composer" |=> [text](https://getcomposer.org/download/).
+- Vous devez installer sur votre machine "composer" |=> [site Officiel de Composer](https://getcomposer.org/download/).
 
 * Maintenant pour vérifier si composer s'est bien installer , vous devez taper dans votre invite de commande "composer --version" , ce qui va vous sortir la version de composer que vous venez d'installer donc tout est bon 👌
 
